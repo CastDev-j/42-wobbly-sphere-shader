@@ -4,7 +4,7 @@ import { RGBELoader } from "three/addons/loaders/RGBELoader.js";
 import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
 import { DRACOLoader } from "three/addons/loaders/DRACOLoader.js";
 import { Timer } from "three/examples/jsm/Addons.js";
-import { mergeVertices } from "three/examples/jsm/utils/BufferGeometryUtils.js";
+// import { mergeVertices } from "three/examples/jsm/utils/BufferGeometryUtils.js";
 import GUI from "lil-gui";
 import CustomShaderMaterial from "three-custom-shader-material/vanilla";
 import wobbleVertexShader from "./shaders/wobble/vertex.glsl";
